@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/menu/crop_image_menu.xml",
+        "source": "/home/techsays/.android/build-cache/2bc9fa3ff1a2c626b0234f9062a032ad7c532c7f/output/res/menu/crop_image_menu.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/src/main/res/menu/main_menu.xml"
+    }
+]

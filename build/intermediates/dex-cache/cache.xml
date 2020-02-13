@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/963e549d077d5395e6a7521a118eccf08bb3bf40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_589a0a3b956159e7388e7518e4b4df9f7bb41788.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/8d035942d54805e892c7fcc71fd228a2fa0f55bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_588dfdc033341e779ea472b7d5ff27029ca82780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/281fcd4ae9415f117fcf99f2bfc1851341831a1a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_b68211eaa210f94f2ad161e8983f617a8c91725d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/b254c25b66565e57fdee1fce6f1317c5a82d16ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_8618cccd487ca6b8b0bec538865691ba5744b475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/34889a93e0e31e082909842fbe4cd616eeea39c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_05d05f7a593cae001bdf379ac4d15063835549a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/3fdc235ce746755470360d4ca9615c997cc23675/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_fcee987199d08a39fd2f21c25a91ae2a5764f11e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/b05fb16d6d08981e85ebe306f5a5faf8ffd067a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_b0da878b25aef5b9c0fffa1633e103c88fbeb749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_fb1e9c37dbc6ef85257de6fb42562b8adc851678.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/d3d900878e9a38bb4ff5108617d2f61611a052ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_3dddd3a73936d96ff540c24fbc9c1b6b6bf53e48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/0585e1c917425ae309a0b6b1ab4633f2c3b0ad55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_5c4a9910528d313920051d8801f20bfd48dc3777.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/2bc9fa3ff1a2c626b0234f9062a032ad7c532c7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3064fd1622398ad2cd8515f7ff8f090a160b1500">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_88680a277d01d4179b85c6cfe62cb6691e571f6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.0.2/b9cd8fc6bd15cb915735d34535db30ece0c44603/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_625bd3e4714ff02b4f3af458339e71242302aaab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/c42e814103bf0e5a792fad4e72dea49066d71e76/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_efaf385219133e79feea1f889c288d1bc90967a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/1ec8d4f4894a0c6fe1881121ce71666951af15c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b0b0f4f99cf68e748dd123ad553738e4284d4749">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_5bac074493b2aaec1dda19ccbc027eed180ef31d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/c5efb90acd9ed5841416d5f4cf4730b49aebe9ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_3f1580b1d66487572c5efe4701c0320f1577e929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/24a7cd111bbff600c1ab21692c6ff84221c32e52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_2aab72cf9c1af78db1d2d96300bc460947cf2b84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/d2ba3761a7440c996b5ec53cb9f5f985009e059f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_a8cba2daf461288d4275998f13bbe8f15e2f26ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/79b76499c30b243fcb48ed9e5946493965e6a1a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_a59ab7e16e61b9683b555439dfe02a9151fa30a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/e77a2628dcbe2f1b36ce7486fe2a93774ff4e4f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_a1459a533fb501bd66f72b4c99510be4e659ef2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/f93cb0e21620d2f65c0175e8b0e2e83f2f15a1ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_eec7fbc9658325257a3206c51ec1041de36eb8e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/55074570d4ed4d116a4b67507517f3a1180c545a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b16a8a4f42d24615e2c8cb2af5205d5ed7f4440c">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_273b00be3b68869aef6f69ff9d5d8c81707f7853.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_a7b51efa769eed656a0fa044a7d2ffa34693cd07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/09aafb4a5b936062dbb45ec5269ab08f80b1320e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_85f3babe14511362d20161733ef20aa0c84c1884.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/rxjava-2.1.0_b84927a7d19f245cb02b625e226dfc48d57b4bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_1c31b9061abddd7fa1944d9bcf35935576b75ec0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0_8ff94071e217b2d8711e02b88796e784eac52393.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/okio-1.6.0_dac7ede599c4b4bf55ef3499061b36a024a8484b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/e89417dd03af2e29a300404683c1ca43a71b5a3a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_295044e3644b24c115727230f86677d5a91c80df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/9297175280e7cd86395bdb30c36fb7bb1ec68500/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_5a740ddb5cd55726ee564ed6c09caf6f7374bcc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.2/8b68a849722b44f584e2d68c451c5e3844c10380/support-annotations-26.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.2_f1be7eebf8a458a0cbfff0d6297a44d5f11c31ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/a9db0fa37b7c70da1aef1a2003e86bc46fa5e566/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_34f6995f83034023acbdaab9b0ee8f9881911c53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/4a6c48040ea94a82fb393089d042c0ef29060af6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_b70544fcdd84fd16077b1eeeacb27bfd5c41f383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/f4c3328cc5cba4b8b9e5ed5581c58712e7cfc658/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_8df62ac56cde06825e34a8fd1163d5f9e595e23f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/de6e3f4503fcd7f94bda0970a77c1efaeb0f2a64/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_b3ca915c81ffb20c1fc40e216c3022bc849558e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/996e48d14cf5d2ed4733b3e6fcca5904e0a9dc88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_e2eeb72f1273566a8788eaf8f86ef7d5f57fea11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/51212dc9d021fe338eb7b79a462f4b22798dd9e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_a0b5c455ef10bdf1e7f82fe2ad3026624de27a39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/975060a83a858ee0028933e02634fbfe5099a8d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_e4e2f5a442623d849aee04e0985d29f51a2d8bbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techsays/.android/build-cache/209b31bec5c3338665810c97ff0be9066ea09e80/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/pre-dexed/debug/classes_39387def3329b82a58234719d8366b47c0e32f75.jar" />
+    </item>
+
+</items>

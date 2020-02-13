@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/techsays/.android/build-cache/975060a83a858ee0028933e02634fbfe5099a8d4/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/techsays/.android/build-cache/975060a83a858ee0028933e02634fbfe5099a8d4/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/techsays/.android/build-cache/975060a83a858ee0028933e02634fbfe5099a8d4/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/techsays/.android/build-cache/975060a83a858ee0028933e02634fbfe5099a8d4/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

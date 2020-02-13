@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/layout-land/activity_setting.xml",
+        "source": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/src/main/res/layout-land/activity_setting.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/layout-land/activity_register.xml",
+        "source": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/src/main/res/layout-land/activity_register.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/layout-land/activity_profile.xml",
+        "source": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/src/main/res/layout-land/activity_profile.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/layout-land/activity_chat.xml",
+        "source": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/src/main/res/layout-land/activity_chat.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/layout-land/activity_main.xml",
+        "source": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/src/main/res/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/layout-land/activity_user.xml",
+        "source": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/src/main/res/layout-land/activity_user.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/layout-land/activity_login.xml",
+        "source": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/src/main/res/layout-land/activity_login.xml"
+    }
+]

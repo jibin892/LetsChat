@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.theartofdev.edmodo:android-image-cropper:2.5.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/2bc9fa3ff1a2c626b0234f9062a032ad7c532c7f/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/2bc9fa3ff1a2c626b0234f9062a032ad7c532c7f/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

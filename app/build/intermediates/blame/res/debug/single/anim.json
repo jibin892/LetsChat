@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/techsays/.android/build-cache/0585e1c917425ae309a0b6b1ab4633f2c3b0ad55/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/techsays/.android/build-cache/0585e1c917425ae309a0b6b1ab4633f2c3b0ad55/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/techsays/.android/build-cache/0585e1c917425ae309a0b6b1ab4633f2c3b0ad55/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/techsays/anooppendrive/completed_projects/LetsChat/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/techsays/.android/build-cache/8a46088c9a7b6fc22cca99e78f4d63fa856d0a40/output/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]
